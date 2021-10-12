@@ -7,13 +7,17 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   
 </div>
 <!--
 **ErikEndler/ErikEndler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg
-
+https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
